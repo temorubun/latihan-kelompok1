@@ -1,0 +1,34 @@
+Sass (Syntactically Awesome Style Sheets) adalah bahasa ekstensi CSS yang memiliki 
+beberapa kegunaan penting dalam pengembangan web. 
+Berikut adalah beberapa alasan utama mengapa kita menggunakan Sass:
+
+1. Variabel: Sass memungkinkan kita untuk mendefinisikan variabel, 
+yang sangat berguna untuk menyimpan nilai-nilai yang sering digunakan seperti warna, 
+ukuran font, atau jarak.
+
+2. Nesting: Dengan Sass, kita dapat menyusun selector CSS secara bersarang, 
+yang membuat kode lebih mudah dibaca dan diorganisir.
+
+3. Mixin: Fitur ini memungkinkan kita untuk membuat kelompok deklarasi CSS 
+yang dapat digunakan kembali di seluruh stylesheet.
+
+4. Partials: Sass memungkinkan kita untuk memecah kode CSS menjadi 
+file-file yang lebih kecil dan lebih mudah dikelola, 
+yang kemudian dapat diimpor ke file utama.
+
+5. Extend/Inheritance: Kita dapat berbagi satu set properti 
+CSS dari satu selector ke selector lainnya.
+
+6. Operasi matematika: Sass mendukung operasi matematika dasar di dalam CSS.
+
+7. Fungsi: Sass menyediakan berbagai fungsi bawaan untuk memanipulasi warna, string, dan nilai numerik.
+
+8. Control Directives: Kita dapat menggunakan pernyataan kondisional dan loop dalam stylesheet kita.
+
+9. Kompatibilitas: Sass dikompilasi menjadi CSS standar, sehingga kompatibel dengan semua browser.
+
+10. Efisiensi: Dengan fitur-fitur di atas, Sass membantu kita menulis CSS lebih cepat dan lebih efisien, 
+serta membuat kode lebih mudah dikelola untuk proyek-proyek besar.
+
+Dengan menggunakan Sass, kita dapat membuat stylesheet yang lebih terstruktur, mudah dikelola, 
+dan efisien, yang pada akhirnya dapat meningkatkan produktivitas dalam pengembangan web.
